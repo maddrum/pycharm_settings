@@ -1,0 +1,12 @@
+<application>
+  <component name="AppStorage">
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="3" />
+        <entry key="FRENCH" value="1" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="FINNISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
