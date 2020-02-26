@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
   </HTMLCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
