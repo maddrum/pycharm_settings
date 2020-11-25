@@ -13,6 +13,14 @@
       <list>
         <option value="buildings_edit.views.FloorUpdateNameView.object" />
         <option value="django.contrib.auth.models.User.is_builder" />
+        <option value="accounts.views.RegenerateEpayPayment.object" />
+        <option value="accounts.views.InvoiceDetailVIew.object" />
+        <option value="accounts.views.ProformaInvoiceDetail.object" />
+        <option value="django.contrib.auth.models.User.user_alias" />
+        <option value="django.contrib.auth.models.User.info_user_model" />
+        <option value="accounts.views.ThemeSelectorView.object" />
+        <option value="str.currency" />
+        <option value="str.amount" />
       </list>
     </option>
   </inspection_tool>
