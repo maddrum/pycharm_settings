@@ -1,10 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="information" type="AUTO_DETECTED" />
+      <mapping pattern="test_git" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
       <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping ext="mysql" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -12,6 +15,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

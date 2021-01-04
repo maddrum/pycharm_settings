@@ -151,6 +151,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cql">
           <value>
             <plugin>
@@ -829,6 +837,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
@@ -1559,6 +1575,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*requirements*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1772,6 +1796,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="constrains.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1805,6 +1837,22 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="nginx.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="requirements.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
             </plugin>
           </value>
         </entry>
