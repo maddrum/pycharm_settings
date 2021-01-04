@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="information" type="AUTO_DETECTED" />
       <mapping pattern="test_git" type="AUTO_DETECTED" />
+      <mapping pattern="information" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
       <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
