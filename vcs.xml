@@ -22,9 +22,17 @@
           <option name="url" value="https://github.com/maddrum/selapt_embed_demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.xtrm.consulting/myhealth/myhealthapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.xtrm.consulting" />
+          <option name="userName" value="maddrum" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work_data" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
