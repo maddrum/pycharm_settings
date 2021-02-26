@@ -5,6 +5,7 @@
       <mapping pattern="information" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
       <mapping pattern="python" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
