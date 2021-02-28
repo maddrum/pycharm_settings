@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="test_git" type="AUTO_DETECTED" />
       <mapping pattern="information" type="AUTO_DETECTED" />
+      <mapping pattern="test-react" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
+      <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
-      <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
