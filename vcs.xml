@@ -30,6 +30,10 @@
           <option name="url" value="http://gitlab.xtrm.consulting" />
           <option name="userName" value="maddrum" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/maddrum/friendly_bet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work_data" />
