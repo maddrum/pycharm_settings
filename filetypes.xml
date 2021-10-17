@@ -4,6 +4,7 @@
       <mapping pattern="test-react" type="AUTO_DETECTED" />
       <mapping pattern="test_git" type="AUTO_DETECTED" />
       <mapping pattern="cron-jobs" type="AUTO_DETECTED" />
+      <mapping pattern="cron-jobs-test" type="AUTO_DETECTED" />
       <mapping pattern="information" type="AUTO_DETECTED" />
       <mapping pattern="main_content__edit_banner" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
