@@ -15,6 +15,7 @@
       <mapping pattern=".env-backup" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="views_mixins" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
