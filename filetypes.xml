@@ -9,6 +9,7 @@
       <mapping pattern="information" type="AUTO_DETECTED" />
       <mapping pattern="main_content__edit_banner" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="JSON" />
+      <mapping pattern=".env_sample" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="removed_urls" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
