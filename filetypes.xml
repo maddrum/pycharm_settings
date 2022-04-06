@@ -15,6 +15,8 @@
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern=".env-backup" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern=".env_celery" type="PLAIN_TEXT" />
+      <mapping pattern=".env_celery_sample" type="PLAIN_TEXT" />
       <mapping pattern=".env_ss" type="PLAIN_TEXT" />
       <mapping pattern=".env_ke" type="PLAIN_TEXT" />
       <mapping pattern=".env_rw" type="PLAIN_TEXT" />
