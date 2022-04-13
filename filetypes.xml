@@ -16,8 +16,14 @@
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern=".env-backup" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern=".env_celery" type="PLAIN_TEXT" />
+      <mapping pattern=".env_celery_sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env_ss" type="PLAIN_TEXT" />
+      <mapping pattern=".env_ke" type="PLAIN_TEXT" />
+      <mapping pattern=".env_rw" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="celery" type="PLAIN_TEXT" />
       <mapping pattern="views_mixins" type="Python" />
       <mapping pattern="imot_bg_spider_input" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
